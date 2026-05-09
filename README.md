@@ -14,4 +14,4 @@ attached-assets--alamgirhossainb.replit.app/saferoute-deck/
 - Geolocation API (Location Tracking)
 
 ## Live Demo
-[এখানে আপনার Replit-এর Live Link-টি বসিয়ে দিন]
+https://d5838b15-d5e0-4768-b8eb-147dd1377ccc-00-27gsa5jy6wvqj.janeway.replit.dev/
