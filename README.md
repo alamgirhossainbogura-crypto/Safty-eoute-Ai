@@ -1,4 +1,4 @@
-# Safty-eoute-Ai
+# Safty-Route-Ai
 attached-assets--alamgirhossainb.replit.app/saferoute-deck/ 
 # SafeRoute AI - Hands-Free Safety Tool
 **Built for the Obserc Safety Hackathon 2026**
